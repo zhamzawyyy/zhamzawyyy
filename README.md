@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Ziad%20Sayed%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Junior%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=190&section=header&text=Ziad%20Sayed%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Junior%20Data%20Scientist&descAlignY=57&descSize=18" width="100%"/>
 
 <br>
 
 <a href="https://zhamzawyyy.github.io/My-Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ziad-sayed-ahmed/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/zhamzawyyy">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -22,59 +26,70 @@
 
 ## Profile
 
-I'm **Ziad Sayed Ahmed**, a Junior Data Scientist in training focused on using data to understand problems, discover patterns, and build practical solutions.
+I'm **Ziad Sayed Ahmed**, a Junior Data Scientist in training with a focus on **data analysis, machine learning, SQL, and business intelligence**.
 
-My current work focuses on:
+I enjoy working with data from the initial exploration and cleaning stages through visualization, modeling, and communicating meaningful insights.
 
-* Data Analysis
-* Exploratory Data Analysis
-* SQL & Databases
-* Data Visualization
-* Machine Learning
-* Business Intelligence
-
-I enjoy taking a problem from **raw data to a clear, useful result**.
+My goal is to build practical, well-structured projects that connect **technical analysis with real-world problems**.
 
 ```text
-Data → Clean → Explore → Analyze → Visualize → Model → Insight
+Raw Data
+    ↓
+Cleaning
+    ↓
+Exploration
+    ↓
+Analysis
+    ↓
+Visualization
+    ↓
+Machine Learning
+    ↓
+Insights
 ```
 
 ---
 
-## Tech Stack
+## Technical Stack
 
 <div align="center">
 
-### Languages
+### Programming & Databases
+
+<br>
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="52"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="52"/>
 </a>
 
 <br><br>
 
-### Data Science
+### Data Science & Machine Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="52"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="52"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="52"/>
 
 <br><br>
 
-### Analytics & BI
+### Business Intelligence
+
+<br>
 
 <a href="https://powerbi.microsoft.com/">
 <img src="https://img.icons8.com/color/96/power-bi.png" height="52"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="52"/>
 </a>
@@ -83,14 +98,16 @@ Data → Clean → Explore → Analyze → Visualize → Model → Insight
 
 ### Development Tools
 
+<br>
+
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
 </a>
@@ -99,77 +116,105 @@ Data → Clean → Explore → Analyze → Visualize → Model → Insight
 
 ---
 
-## Featured Work
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Retail Sales Intelligence
 
 **Business Intelligence · Data Analysis**
 
-Transforming retail data into interactive business insights through KPIs, trends, product analysis, and performance reporting.
+An analytics project focused on transforming retail data into useful business insights through KPIs, trends, product performance, and interactive reporting.
 
-**Tools**
+**Technologies**
 
-`Power BI` `SQL` `Excel`
+`Power BI` · `SQL` · `Excel`
 
 **Focus**
 
-Sales Analysis · KPIs · Visualization
+Business KPIs · Sales Analysis · Data Visualization
+
+<br>
+
+<a href="https://github.com/zhamzawyyy">
+View Project →
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Customer Churn Prediction
 
 **Machine Learning · Classification**
 
-A predictive analytics project focused on identifying customers with a higher probability of churn.
+A predictive analytics project focused on identifying customers who are more likely to churn.
 
-**Tools**
+**Technologies**
 
-`Python` `Pandas` `Scikit-learn`
+`Python` · `Pandas` · `Scikit-learn`
 
 **Focus**
 
-EDA · Feature Engineering · Classification
+EDA · Feature Engineering · Classification · Evaluation
+
+<br>
+
+<a href="https://github.com/zhamzawyyy">
+View Project →
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Loan Approval Prediction
 
-**Machine Learning · Predictive Analytics**
+**Machine Learning · Classification**
 
-A classification project that uses applicant information to predict loan approval outcomes.
+A machine learning project that analyzes applicant information to predict loan approval outcomes.
 
-**Tools**
+**Technologies**
 
-`Python` `Pandas` `Scikit-learn`
+`Python` · `Pandas` · `Scikit-learn`
 
-[View Repository →](https://github.com/zhamzawyyy)
+**Focus**
+
+Data Preparation · EDA · Classification
+
+<br>
+
+<a href="https://github.com/zhamzawyyy">
+View Project →
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### CPU Scheduling Simulator
 
 **Algorithms · Operating Systems**
 
-A practical implementation of common CPU scheduling algorithms with a focus on algorithmic behavior and process scheduling.
+A practical implementation of common CPU scheduling algorithms designed to explore process scheduling and algorithmic behavior.
 
 **Algorithms**
 
-FCFS · SJF · Priority · Round Robin
+`FCFS` · `SJF` · `Priority` · `Round Robin`
 
-[View Repository →](https://github.com/zhamzawyyy)
+**Technologies**
+
+`Python`
+
+<br>
+
+<a href="https://github.com/zhamzawyyy">
+View Project →
+</a>
 
 </td>
 </tr>
@@ -183,17 +228,18 @@ FCFS · SJF · Priority · Round Robin
 
 <table>
 <tr>
+
 <td align="center" width="16%">
 
 **01**
 
 ### Collect
 
-Data Sources
+Data
 
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center" width="16%">
 
@@ -201,11 +247,11 @@ Data Sources
 
 ### Clean
 
-Data Quality
+Quality
 
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center" width="16%">
 
@@ -217,7 +263,7 @@ EDA
 
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center" width="16%">
 
@@ -229,7 +275,7 @@ Patterns
 
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center" width="16%">
 
@@ -241,7 +287,7 @@ ML
 
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center" width="16%">
 
@@ -264,39 +310,60 @@ Insights
 
 <table>
 <tr>
-<td>
 
-**Data Analysis**
+<td width="50%" valign="top">
 
-Exploring datasets, identifying patterns, and producing meaningful insights.
+### Data Analysis
 
-</td>
-<td>
-
-**Machine Learning**
-
-Building and evaluating practical predictive models.
+Working with structured datasets to discover trends, patterns, relationships, and actionable insights.
 
 </td>
+
+<td width="50%" valign="top">
+
+### Machine Learning
+
+Building and evaluating practical predictive models while strengthening my understanding of the ML workflow.
+
+</td>
+
 </tr>
 
 <tr>
-<td>
 
-**SQL**
+<td width="50%" valign="top">
 
-Improving database querying, data extraction, and analytical SQL.
+### SQL
 
-</td>
-<td>
-
-**Power BI**
-
-Creating dashboards that communicate business metrics clearly.
+Improving analytical SQL skills, data extraction, joins, aggregations, and database-driven analysis.
 
 </td>
+
+<td width="50%" valign="top">
+
+### Power BI
+
+Building clear dashboards and reports that communicate business metrics effectively.
+
+</td>
+
 </tr>
 </table>
+
+---
+
+## Learning Path
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Statistics-0f172a?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-0f172a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+
+</div>
 
 ---
 
@@ -304,7 +371,7 @@ Creating dashboards that communicate business metrics clearly.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhamzawyyy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zhamzawyyy&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamzawyyy&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
@@ -316,27 +383,13 @@ Creating dashboards that communicate business metrics clearly.
 
 ---
 
-## Learning Path
+## Beyond Data Science
 
-<div align="center">
+Alongside my data science journey, I also work on software and computer science projects that strengthen my understanding of programming fundamentals and systems.
 
-`Python`
-→
-`SQL`
-→
-`Statistics`
-→
-`EDA`
-→
-`Machine Learning`
-→
-`Power BI`
-→
-`End-to-End Projects`
+**Areas**
 
-</div>
-
-I'm continuously working on turning these individual skills into complete, production-minded data projects.
+`Object-Oriented Programming` · `Operating Systems` · `Algorithms` · `Problem Solving`
 
 ---
 
@@ -345,13 +398,19 @@ I'm continuously working on turning these individual skills into complete, produ
 <div align="center">
 
 <a href="https://zhamzawyyy.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/ziad-sayed-ahmed/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="https://github.com/zhamzawyyy">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -360,7 +419,7 @@ I'm continuously working on turning these individual skills into complete, produ
 
 <div align="center">
 
-<sub>Open to junior opportunities, internships, freelance projects, and collaborations in data and analytics.</sub>
+Open to **junior opportunities, internships, freelance projects, and collaborations** in data and analytics.
 
 </div>
 
@@ -368,6 +427,6 @@ I'm continuously working on turning these individual skills into complete, produ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
