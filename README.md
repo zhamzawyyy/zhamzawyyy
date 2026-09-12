@@ -1,28 +1,143 @@
-# Hi, I'm Ziad 👋
+# Hi there, I'm Ziad Sayed Ahmed 👋
 
-Data Science & AI student in Cairo, Egypt, building machine learning models, BI dashboards, and full-stack apps.
+### 🚀 Junior Data Scientist | Python • SQL • Power BI • Machine Learning
 
-- 🎓 BSc Data Science & AI @ ElSewedy University of Technology (2024–2028)
-- 🏦 Summer Intern @ Commercial International Bank (CIB)
-- 📊 Currently in the DEPI Data Scientist and AI program
-- 🌱 Learning: advanced ML, cloud data pipelines
-- 💬 Open to freelance work in data analysis, Power BI dashboards, and Python automation
+I'm a passionate **Junior Data Scientist** interested in transforming raw and messy data into meaningful insights and building machine learning models that solve real-world problems.
 
-## 🛠 Tech Stack
+Currently, I'm developing my skills in:
 
-**Languages:** Python · SQL · Java · PHP · JavaScript
-**Data & ML:** Pandas · NumPy · Scikit-learn · XGBoost
-**BI & Tools:** Power BI (DAX) · Excel · Jupyter · Git
-**Web:** HTML · CSS · MySQL · XAMPP
+* 📊 Data Analysis & Data Visualization
+* 🐍 Python for Data Science
+* 🗄️ SQL & Databases
+* 📈 Power BI & Interactive Dashboards
+* 🤖 Machine Learning
+* 🧹 Data Cleaning & Data Preprocessing
 
-## 📌 Featured Projects
+---
 
-- **[Loan Approval Prediction Dashboard](#)** — Power BI dashboard analyzing 614 loan applications across credit history, income, and property area.
-- **[Retail Sales Intelligence Dashboard](#)** — 6-page Power BI dashboard tracking 12+ KPIs across 50,000+ rows; cut manual reporting time by 70%.
-- **[Customer Churn Prediction Model](#)** — 89% accuracy, 0.93 AUC-ROC predicting telecom churn with SMOTE for class imbalance.
-- **[Hospital Management System](#)** — Java/Swing/SQLite desktop app with role-based access and full CRUD.
-- **[Inventory Management System](#)** — Full-stack PHP/MySQL web app with real-time stock alerts.
+## 👨‍💻 About Me
 
-## 📫 Reach me
+* 🎓 Aspiring **Data Scientist**
+* 📊 Passionate about turning data into insights
+* 🤖 Interested in Machine Learning and Artificial Intelligence
+* 📈 Building data-driven projects and dashboards
+* 💼 Open to internships, freelance opportunities, and junior roles
+* 🌱 Currently learning more about **Machine Learning, SQL, and Data Visualization**
 
-[LinkedIn](https://www.linkedin.com/in/ziad-sayed-ahmed) · [Portfolio](#) · z.hamzawyyy@gmail.com
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+</p>
+
+### 📊 Data Science & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Retail Sales Intelligence Dashboard
+
+📌 Interactive dashboard for analyzing retail sales performance.
+
+**Tools:** Power BI, SQL, Excel
+
+🔗 Repository: Coming Soon
+
+---
+
+### 🤖 Customer Churn Prediction
+
+📌 Machine Learning model that predicts whether a customer is likely to leave a company.
+
+**Tools:** Python, Pandas, Scikit-learn
+
+🔗 Repository: Coming Soon
+
+---
+
+### 🏦 Loan Approval Prediction
+
+📌 Machine Learning project that predicts loan approval based on customer information.
+
+**Tools:** Python, Pandas, Scikit-learn
+
+🔗 Repository: Add your repository link here
+
+---
+
+### 💻 CPU Scheduling Simulator
+
+📌 Operating Systems project implementing CPU scheduling algorithms.
+
+**Concepts:**
+
+* FCFS
+* SJF
+* Round Robin
+* Priority Scheduling
+
+🔗 Repository: Add your repository link here
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zhamzawyyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhamzawyyy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhamzawyyy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://zhamzawyyy.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### ⭐ From [Ziad Sayed Ahmed](https://github.com/zhamzawyyy)
+
+### 🚀 Always learning. Always building. Always improving.
