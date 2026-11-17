@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ziad Sayed Ahmed — Data Science, Machine Learning, Analytics" width="100%"/>
+<img src="https://raw.githubusercontent.com/zhamzawyyy/zhamzawyyy/main/assets/banner.svg" alt="Ziad Sayed Ahmed — Data Science, Machine Learning, Analytics" width="100%"/>
 
 <br/>
 
